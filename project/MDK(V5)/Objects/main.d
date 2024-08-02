@@ -31,3 +31,5 @@
 .\objects\main.o: ..\..\board\board.h
 .\objects\main.o: ..\..\bsp\uart\bsp_uart.h
 .\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\main.o: ..\..\bsp\OLED\oled.h
+.\objects\main.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
